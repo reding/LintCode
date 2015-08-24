@@ -29,7 +29,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LintCode012strStr", "LintCo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LintCode013binarySearch", "LintCode013\LintCode013.vcxproj", "{3DE59F17-E8E6-4986-B5F3-9D1E14933D16}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LintCode014", "LintCode014\LintCode014.vcxproj", "{4CBB74E6-2862-4471-8F1E-46D533B0E537}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LintCode014permute", "LintCode014\LintCode014.vcxproj", "{4CBB74E6-2862-4471-8F1E-46D533B0E537}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LintCode015permuteUnique", "LintCode015\LintCode015.vcxproj", "{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +153,14 @@ Global
 		{4CBB74E6-2862-4471-8F1E-46D533B0E537}.Release|x64.Build.0 = Release|x64
 		{4CBB74E6-2862-4471-8F1E-46D533B0E537}.Release|x86.ActiveCfg = Release|Win32
 		{4CBB74E6-2862-4471-8F1E-46D533B0E537}.Release|x86.Build.0 = Release|Win32
+		{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}.Debug|x64.ActiveCfg = Debug|x64
+		{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}.Debug|x64.Build.0 = Debug|x64
+		{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}.Debug|x86.Build.0 = Debug|Win32
+		{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}.Release|x64.ActiveCfg = Release|x64
+		{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}.Release|x64.Build.0 = Release|x64
+		{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}.Release|x86.ActiveCfg = Release|Win32
+		{DC552AF7-DF1E-4136-9C7E-EFD7FE558448}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
